@@ -1,0 +1,7 @@
+neo4j
+pandas
+fastapi
+uvicorn
+python-jose[cryptography]
+passlib[bcrypt]
+streamlit
